@@ -19,8 +19,6 @@ install_command() {
 # Check and install required commands
 echo "Checking and installing required tools"
 
-# Check and install go
-install_command go
 
 # Check and install assetfinder
 install_command assetfinder
