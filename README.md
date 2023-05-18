@@ -14,7 +14,7 @@ $ git clone https://github.com/nithinjose85/SubDigger.git
 $ cd SubDigger
 $ ./installer.sh
 ```
-
+### Make sure that you installed go and configured PATH.
 
 ### Usage
 
