@@ -23,6 +23,6 @@ $ ./subdigger.sh -h
 $ ./subdigger.sh -d example.com
 
 ```
-###Credits
+### Credits
 
 `SubDigger` would not have been posssible without some of these amazing projects and people:[secretguard](https://github.com/secretguard),[subfinder](https://github.com/projectdiscovery/subfinder), [assetfinder](https://github.com/tomnomnom/assetfinder), [httprobe](https://github.com/tomnomnom/httprobe), [nmap](https://github.com/nmap/nmap), [gowitness](https://github.com/sensepost/gowitness).
