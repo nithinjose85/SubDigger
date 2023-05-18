@@ -12,15 +12,15 @@ Will create a directory for the domain that needs to scan and stores the sub-dom
 ```sh
 $ git clone https://github.com/nithinjose85/SubDigger.git
 $ cd SubDigger
-$ ./subdigger.sh
+$ ./installer.sh
 ```
 
 
 ### Usage
 
 ```sh
-$ ./subdigger.sh -h
-$ ./subdigger.sh -d example.com
+$ subdigger -h
+$ subdigger -d example.com
 
 ```
 ### Credits
