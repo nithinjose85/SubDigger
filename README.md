@@ -12,6 +12,7 @@ Will create a directory for the domain that needs to scan and stores the sub-dom
 ```sh
 $ git clone https://github.com/nithinjose85/SubDigger.git
 $ cd SubDigger
+$ chmod +x installer.sh
 $ ./installer.sh
 ```
 ### Make sure that you installed go and configured PATH.
